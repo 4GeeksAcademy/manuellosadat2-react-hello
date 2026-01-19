@@ -15,17 +15,22 @@ const Home = () => {
 					<Card
 						image="https://placehold.co/500x300?text=500+x+300"
 						title="Card title"
-						text="Some quick example text to build on the card title."
+						text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores rem suscipit quibusdam amet quisquam!"
 					/>
 					<Card
 						image="https://placehold.co/500x300?text=500+x+300"
 						title="Card title"
-						text="Some quick example text to build on the card title."
+						text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores rem suscipit quibusdam amet quisquam!"
 					/>
 					<Card
 						image="https://placehold.co/500x300?text=500+x+300"
 						title="Card title"
-						text="Some quick example text to build on the card title."
+						text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores rem suscipit quibusdam amet quisquam!"
+					/>
+					<Card
+						image="https://placehold.co/500x300?text=500+x+300"
+						title="Card title"
+						text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores rem suscipit quibusdam amet quisquam!"
 					/>
 				</div>
 			</div>
